@@ -1,0 +1,7 @@
+venv/ 
+__pycache__/ 
+*.pyc 
+.git/ 
+data/qrcodes/ 
+data/weld_trace.db 
+outputs/ 
